@@ -1,2 +1,2 @@
-仿写去哪儿网app
-https://xiaoqingb.github.io/travel-platfrom/
+仿写去哪儿网app.
+https://xiaoqingb.github.io/travel-platform/
